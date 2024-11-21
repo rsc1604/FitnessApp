@@ -1,0 +1,5 @@
+Command um exe zu bauen -> mit allen liabarys:
+In Projektordner ausführen
+pyinstaller --onefile --hidden-import pyodbc main.py
+
+ODBC Driver 18 for SQL Server muss installiert sein

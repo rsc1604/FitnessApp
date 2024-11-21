@@ -1,0 +1,2 @@
+- mit jeder ODBC Driver Version kompatibel sein
+-> irgendwie es schaffen, dass der Treiber nicht manuel Vorisntalliert werden muss um die Datenbank abrufen zu können 
