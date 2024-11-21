@@ -1,0 +1,38 @@
+[
+    {
+        "username": "root",
+        "password": "$2b$12$7e6tdmNtyM4q3cj2imZk/e5K2tcT8NPL8Fo1gNwxuzGEe7ePzUrcO",
+        "weight": 187,
+        "id": 1,
+        "email": "root@root",
+        "age": 69,
+        "gender": "Divers"
+    },
+    {
+        "username": "Sven",
+        "password": "$2b$12$dHltWk0543KpbpeML4t0s.L8scDWbanHoJV.Fu2ZfQspOQJk7kFZC",
+        "weight": 63,
+        "id": 2,
+        "email": "rsc1604@outlook.com",
+        "age": 18,
+        "gender": "Männlich"
+    },
+    {
+        "username": "test",
+        "password": "$2b$12$TuwEA3rDmVYFkxjKqs1IHevy8cjtKUvTJtNvFi2ItL/3EfSNPIDUW",
+        "weight": 12,
+        "id": 3,
+        "email": "test@test",
+        "age": 12,
+        "gender": "Männlich"
+    },
+    {
+        "username": "Jaron",
+        "password": "$2b$12$rsskZbUEB65DuTb9.1WVku9zTwVYC8w6pcdfF4VSQWC2PpJMZr6Y.",
+        "weight": 70,
+        "id": 4,
+        "email": "sven.rieger@hotmail.com",
+        "age": 19,
+        "gender": "Männlich"
+    }
+]

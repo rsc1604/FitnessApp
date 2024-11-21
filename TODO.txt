@@ -1,0 +1,5 @@
+
+!!Fehler fürs Konvertieren zur exe!!
+19622 WARNING: Hidden import "pysqlite2" not found!
+19622 WARNING: Hidden import "MySQLdb" not found!
+19623 WARNING: Hidden import "psycopg2" not found!
