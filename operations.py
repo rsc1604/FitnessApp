@@ -6,7 +6,14 @@ from Datenbank_Struktur import *
 import json
 #from models import AllUser
 
-#DATABASE_URL = os.getenv("DATABASE_URL", "mysql+pymysql://root:@localhost/fitnessappv33")
+# Verbindung zur Datenbank MS SQL Server
+#    "mssql+pyodbc://"
+#    "Sven:IEWeEiN!3Ch0A$@test123451.database.windows.net/Test"
+#    "?driver=ODBC+Driver+18+for+SQL+Server"
+
+# Verbindung zur Datenbank MySQL
+#   mysql+pymysql://root:@localhost/fitnessappv33
+
 connection_string = (
     "mssql+pyodbc://"
     "Sven:IEWeEiN!3Ch0A$@test123451.database.windows.net/Test"
